@@ -6,21 +6,16 @@
 //
 
 #include <iostream>
-#include <string>
+#include "sets.hpp"
 
-class Sets {
-private:
-  // tbd
 
-public:
-  // constructor
-  Sets() = default;
-
-};
 
 int main(int argc, const char * argv[]) {
+    
     // create an instance of a set
     Sets set1;
+    
+    // do some fun stuff
 
     return 0;
 }
